@@ -7,7 +7,8 @@ import time
 def main() -> None:
     print("\nTest: Beginning..\n")
     print("\nTest: Ending....\n")
-
+    print("hello")
 
 if __name__ == "__main__":
     main()
+
